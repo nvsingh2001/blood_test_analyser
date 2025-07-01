@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+python-multipart
+crewai==0.130.0
+crewai-tools
+langchain
+pypdf
+python-dotenv
+google-search-results
+aiofiles
